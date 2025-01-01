@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+    text-align: center;
+    height: 300px;
+}
+th {
+    background-color:rgb(124 175 128);
+    color: white;
+}
+.date {
+    background-color:rgb(236 222 222);
+}
